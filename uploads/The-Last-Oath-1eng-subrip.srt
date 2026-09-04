@@ -1,0 +1,822 @@
+1
+00:01:00,325 --> 00:01:02,208
+Hubby, save me!
+
+2
+00:01:07,411 --> 00:01:09,007
+Lin Zai!
+
+3
+00:01:49,541 --> 00:01:50,791
+Brother!
+
+4
+00:01:50,791 --> 00:01:52,708
+- Help!
+- Lin Zai!
+
+5
+00:01:52,708 --> 00:01:54,291
+It's not possible! This way!
+
+6
+00:01:54,291 --> 00:01:56,133
+Quick! Go!
+
+7
+00:02:11,875 --> 00:02:14,455
+Hurry up, Lin Zai!
+
+8
+00:02:15,583 --> 00:02:16,666
+This way!
+
+9
+00:02:16,666 --> 00:02:18,133
+Over here!
+
+10
+00:02:19,000 --> 00:02:20,416
+This way!
+
+11
+00:02:20,416 --> 00:02:22,633
+Up! Up!
+
+12
+00:02:24,291 --> 00:02:26,216
+Brother, it won't open!
+
+13
+00:02:32,166 --> 00:02:34,758
+Brother! The door's open, quick!
+
+14
+00:02:56,166 --> 00:02:57,875
+You bastard.
+
+15
+00:02:57,875 --> 00:03:00,333
+It's not safe for us to be here.
+
+16
+00:03:00,333 --> 00:03:03,133
+We must hurry and find a new exit.
+
+17
+00:03:04,373 --> 00:03:08,375
+I just saw the floor plan in the hallway.
+
+18
+00:03:08,375 --> 00:03:10,791
+I know where the exit is.
+
+19
+00:03:10,791 --> 00:03:12,125
+Brother.
+
+20
+00:03:12,125 --> 00:03:15,462
+Don't worry, I will definitely get you out.
+
+21
+00:03:16,375 --> 00:03:17,833
+If you say it'll happen,
+
+22
+00:03:17,833 --> 00:03:19,416
+then it'll definitely happen!
+
+23
+00:03:19,416 --> 00:03:20,675
+Come on!
+
+24
+00:03:28,000 --> 00:03:29,591
+Lin Zai!
+
+25
+00:03:34,750 --> 00:03:35,925
+Brother!
+
+26
+00:03:37,000 --> 00:03:40,383
+Go! You must live on!
+
+27
+00:03:41,541 --> 00:03:42,833
+Go!
+
+28
+00:03:42,833 --> 00:03:46,300
+Let me be!
+
+29
+00:03:54,541 --> 00:03:56,633
+Brother...
+
+30
+00:03:58,708 --> 00:04:03,258
+Live on...
+
+31
+00:05:15,375 --> 00:05:17,750
+<i>My name is Lin Zai.</i>
+
+32
+00:05:17,750 --> 00:05:19,458
+<i>22 days ago,</i>
+
+33
+00:05:19,458 --> 00:05:22,125
+<i>the zombie crisis broke out.</i>
+
+34
+00:05:22,125 --> 00:05:24,208
+<i>It destroyed my life,</i>
+
+35
+00:05:24,208 --> 00:05:26,050
+<i>and took away my parents.</i>
+
+36
+00:05:27,375 --> 00:05:28,875
+<i>Just now,</i>
+
+37
+00:05:28,875 --> 00:05:30,800
+<i>it took away my last family.</i>
+
+38
+00:05:31,833 --> 00:05:35,000
+<i>Now, I've been bitten, too.</i>
+
+39
+00:05:35,000 --> 00:05:36,841
+<i>It's all over.</i>
+
+40
+00:05:38,000 --> 00:05:39,625
+<i>They say,</i>
+
+41
+00:05:39,625 --> 00:05:42,966
+<i>after being bitten,
+you can stay awake for a few hours at most.</i>
+
+42
+00:05:44,208 --> 00:05:45,958
+<i>It hurts this much.</i>
+
+43
+00:05:45,958 --> 00:05:47,341
+<i>And it's so cold.</i>
+
+44
+00:05:48,083 --> 00:05:50,508
+<i>You'll slowly forget who you are.</i>
+
+45
+00:05:52,125 --> 00:05:54,208
+<i>I'm probably...</i>
+
+46
+00:05:54,208 --> 00:05:56,050
+<i>on my way to the end.</i>
+
+47
+00:06:52,708 --> 00:06:54,375
+Hubby, are you okay?
+
+48
+00:06:54,375 --> 00:06:55,375
+I'm fine.
+
+49
+00:06:55,375 --> 00:06:56,708
+Your lips are all pale.
+
+50
+00:06:56,708 --> 00:06:57,958
+I'm fine.
+
+51
+00:06:57,958 --> 00:06:59,000
+Why are you sweating so much?
+
+52
+00:06:59,000 --> 00:07:00,425
+I'm good.
+
+53
+00:07:08,333 --> 00:07:10,416
+Please! Don't kill me!
+
+54
+00:07:10,416 --> 00:07:12,125
+Don't kill me! Please!
+
+55
+00:07:12,125 --> 00:07:13,333
+- Please don't kill him!
+- Please!
+
+56
+00:07:13,333 --> 00:07:14,925
+- Please!
+- Please!
+
+57
+00:07:19,333 --> 00:07:20,833
+Hubby!
+
+58
+00:07:20,833 --> 00:07:22,291
+- No immunogen found.
+- Hubby!
+
+59
+00:07:22,291 --> 00:07:24,216
+<i>Continue with the search.</i>
+
+60
+00:07:38,666 --> 00:07:40,675
+I didn't turn into a zombie.
+
+61
+00:07:45,416 --> 00:07:47,966
+<i>You must live on.</i>
+[Fortune]
+
+62
+00:07:53,666 --> 00:07:55,250
+Brother...
+
+63
+00:07:55,250 --> 00:07:57,708
+I will definitely live on well.
+
+64
+00:07:57,708 --> 00:07:59,633
+Even if it's just for one day.
+
+65
+00:09:44,867 --> 00:09:49,422
+[Apocalypse Log 1]
+
+66
+00:09:52,630 --> 00:09:58,083
+[Six Months Later]
+
+67
+00:10:08,416 --> 00:10:10,375
+Lin Zai, come here for a second.
+
+68
+00:10:10,375 --> 00:10:12,216
+Okay. Coming.
+
+69
+00:10:17,083 --> 00:10:18,541
+What's up, Li?
+
+70
+00:10:18,541 --> 00:10:20,958
+I changed the bulb, why isn't it working?
+
+71
+00:10:20,958 --> 00:10:22,750
+- Let me take a look.
+- You gotta fix it quick.
+
+72
+00:10:22,750 --> 00:10:24,041
+Zombies got in last night.
+
+73
+00:10:24,041 --> 00:10:25,166
+- Huh?
+- Don't worry.
+
+74
+00:10:25,166 --> 00:10:26,916
+Chen handled them all.
+
+75
+00:10:26,916 --> 00:10:27,916
+Chen is the best.
+
+76
+00:10:27,916 --> 00:10:29,083
+Here, give it to me.
+
+77
+00:10:29,083 --> 00:10:30,383
+Careful now.
+
+78
+00:10:37,458 --> 00:10:39,258
+Go on, try it.
+
+79
+00:10:40,416 --> 00:10:41,800
+Awesome.
+
+80
+00:10:43,291 --> 00:10:45,583
+- Come on, let's grab food.
+- Okay.
+
+81
+00:10:45,583 --> 00:10:47,041
+A college kid really can make things work.
+
+82
+00:10:47,041 --> 00:10:49,416
+I only know how to
+change light bulbs or fix faucets.
+
+83
+00:10:49,416 --> 00:10:50,500
+For this kind of sophisticated work,
+
+84
+00:10:50,500 --> 00:10:52,624
+we still have to rely on you.
+
+85
+00:10:52,624 --> 00:10:53,625
+- Li.
+- Yeah?
+
+86
+00:10:53,625 --> 00:10:55,250
+You're the one with super strength.
+
+87
+00:10:55,250 --> 00:10:57,916
+Carrying me up
+to the fifth floor without panting.
+
+88
+00:10:57,916 --> 00:10:59,125
+At crucial moments,
+
+89
+00:10:59,125 --> 00:11:01,041
+you are much more useful than me.
+
+90
+00:11:01,041 --> 00:11:02,083
+You little bastard.
+
+91
+00:11:02,083 --> 00:11:04,750
+Are you implying that
+I'm all brawn and no brains?
+
+92
+00:11:04,750 --> 00:11:05,916
+- No, no.
+- Next time when we carry supplies,
+
+93
+00:11:05,916 --> 00:11:07,125
+you're carrying twice the load.
+
+94
+00:11:07,125 --> 00:11:08,375
+Otherwise, don't bother coming back.
+
+95
+00:11:08,375 --> 00:11:09,916
+And no food for you.
+
+96
+00:11:09,916 --> 00:11:11,416
+I was just about to go in and call you.
+
+97
+00:11:11,416 --> 00:11:13,841
+- Time to eat!
+- Grandma Qiu, let me help.
+
+98
+00:11:15,541 --> 00:11:16,791
+People need to eat.
+
+99
+00:11:16,791 --> 00:11:18,750
+Only when you are fed will you be able to work.
+
+100
+00:11:18,750 --> 00:11:23,008
+Today, we have the sparrow meat
+you've been craving.
+
+101
+00:11:25,375 --> 00:11:28,258
+Don't rush, we'll eat together
+when Chen's back.
+
+102
+00:11:29,958 --> 00:11:31,125
+Where is Chen?
+
+103
+00:11:31,125 --> 00:11:32,541
+Chen...
+
+104
+00:11:32,541 --> 00:11:34,375
+Chen should be in the backyard.
+
+105
+00:11:34,375 --> 00:11:36,291
+Then I'll go get her.
+
+106
+00:11:36,291 --> 00:11:37,508
+Okay.
+
+107
+00:11:49,375 --> 00:11:51,591
+Chen, food's ready!
+
+108
+00:12:08,625 --> 00:12:11,041
+Good thing you suggested
+adding a few more defenses yesterday.
+
+109
+00:12:11,041 --> 00:12:14,790
+Otherwise, we would've been
+attacked last night.
+
+110
+00:12:14,790 --> 00:12:15,875
+I'm glad it's useful.
+
+111
+00:12:15,875 --> 00:12:17,841
+But we still can't let our guard down.
+
+112
+00:12:20,166 --> 00:12:21,625
+All done.
+
+113
+00:12:21,625 --> 00:12:22,833
+Don't worry.
+
+114
+00:12:22,833 --> 00:12:24,375
+Our camp's location is hidden.
+
+115
+00:12:24,375 --> 00:12:25,916
+Just a zombie or two passing by occasionally.
+
+116
+00:12:25,916 --> 00:12:29,625
+I'm very equipped to deal with them.
+
+117
+00:12:29,625 --> 00:12:30,916
+You're the best.
+
+118
+00:12:30,916 --> 00:12:32,625
+I still have to check the other traps.
+
+119
+00:12:32,625 --> 00:12:34,000
+You go eat first.
+
+120
+00:12:34,000 --> 00:12:36,133
+All right, be careful.
+
+121
+00:13:09,916 --> 00:13:11,508
+Brother...
+
+122
+00:13:12,375 --> 00:13:16,041
+You must be protecting me in heaven,
+keeping me from turning into a zombie.
+
+123
+00:13:16,041 --> 00:13:17,916
+Before that day comes,
+
+124
+00:13:17,916 --> 00:13:20,216
+I promise I will live on well.
+
+125
+00:14:19,166 --> 00:14:20,458
+Go!
+
+126
+00:14:20,458 --> 00:14:22,300
+Let me be!
+
+127
+00:14:26,791 --> 00:14:29,258
+<i>Go! Let me be!</i>
+
+128
+00:14:49,500 --> 00:14:50,800
+Don't touch him!
+
+129
+00:14:51,458 --> 00:14:52,583
+What are you doing?
+
+130
+00:14:52,583 --> 00:14:54,920
+What if he's a zombie?
+
+131
+00:15:11,708 --> 00:15:13,300
+Looks like he's not infected.
+
+132
+00:15:16,500 --> 00:15:20,091
+Just some physical injuries and scrapes.
+
+133
+00:15:21,666 --> 00:15:23,833
+Seems like he fell from somewhere.
+
+134
+00:15:23,833 --> 00:15:26,041
+Probably has some internal injuries
+and fractures, too.
+
+135
+00:15:26,041 --> 00:15:28,166
+To be able to make it to our camp,
+
+136
+00:15:28,166 --> 00:15:31,050
+He probably encountered
+quite a few zombies along the way.
+
+137
+00:15:33,458 --> 00:15:35,082
+Can he be saved?
+
+138
+00:15:35,082 --> 00:15:36,085
+Hard to say.
+
+139
+00:15:36,085 --> 00:15:38,208
+But it's best we don't get involved in this.
+
+140
+00:15:38,208 --> 00:15:40,750
+Camp supplies are already low.
+
+141
+00:15:40,750 --> 00:15:42,125
+Look at his gear.
+
+142
+00:15:42,125 --> 00:15:44,750
+It's hard to say
+if he's an apocalyptic raider or not.
+
+143
+00:15:44,750 --> 00:15:47,050
+We have to prioritize the safety of our camp.
+
+144
+00:15:56,875 --> 00:15:58,708
+Bro, I'm sorry.
+
+145
+00:15:58,708 --> 00:16:00,500
+As much as we want to,
+
+146
+00:16:00,500 --> 00:16:02,375
+we really can't help.
+
+147
+00:16:02,375 --> 00:16:03,883
+Sorry about this.
+
+148
+00:16:16,833 --> 00:16:18,083
+Wow.
+
+149
+00:16:18,083 --> 00:16:19,466
+Bandages.
+
+150
+00:16:20,875 --> 00:16:23,050
+Such a big bundle of climbing rope.
+
+151
+00:16:25,666 --> 00:16:27,508
+And a small flashlight.
+
+152
+00:16:28,416 --> 00:16:30,591
+He's definitely not an ordinary person.
+
+153
+00:16:33,583 --> 00:16:34,625
+Food.
+
+154
+00:16:34,625 --> 00:16:36,050
+Tools.
+
+155
+00:16:36,750 --> 00:16:38,958
+All things our camp needs.
+
+156
+00:16:38,958 --> 00:16:40,000
+Other than raiders,
+
+157
+00:16:40,000 --> 00:16:42,333
+probably no one would
+carry such complete equipment
+
+158
+00:16:42,333 --> 00:16:44,383
+while wandering outside.
+
+159
+00:16:51,375 --> 00:16:53,750
+He really has everything.
+
+160
+00:16:53,750 --> 00:16:55,541
+But at a time like this,
+
+161
+00:16:55,541 --> 00:16:58,083
+it's still better to be careful.
+
+162
+00:16:58,083 --> 00:17:02,750
+After all, it took us a lot
+to finally build up this camp.
+
+163
+00:17:02,750 --> 00:17:05,166
+Ugh. That's true.
+
+164
+00:17:05,166 --> 00:17:06,875
+No matter what time it is,
+
+165
+00:17:06,875 --> 00:17:09,083
+humans always find enemies in their own kind.
+
+166
+00:17:09,083 --> 00:17:12,258
+<i>Humans always find enemies in their own kind.</i>
+
+167
+00:17:18,418 --> 00:17:20,583
+All right. Stop overthinking it.
+
+168
+00:17:20,583 --> 00:17:22,502
+Even in peaceful times,
+
+169
+00:17:22,502 --> 00:17:23,875
+if someone collapses on the roadside,
+
+170
+00:17:23,875 --> 00:17:25,416
+not everyone would be a Samaritan.
+
+171
+00:17:25,416 --> 00:17:26,958
+Let alone now.
+
+172
+00:17:26,958 --> 00:17:28,333
+Captain Chen's judgment isn't wrong.
+
+173
+00:17:28,333 --> 00:17:31,041
+Your desire to save people isn't wrong either.
+
+174
+00:17:31,041 --> 00:17:33,466
+I know. I just...
+
+175
+00:17:34,208 --> 00:17:36,875
+Forget it. Let's not talk about him.
+
+176
+00:17:36,875 --> 00:17:38,500
+What else is in there? Let me see.
+
+177
+00:17:38,500 --> 00:17:39,541
+Hey.
+
+178
+00:17:39,541 --> 00:17:41,041
+This kid's toy.
+
+179
+00:17:41,041 --> 00:17:42,250
+It's a bit too childish.
+
+180
+00:17:42,250 --> 00:17:44,541
+Just right for a young college boy like you.
+
+181
+00:17:44,541 --> 00:17:46,091
+It's yours.
+
+182
+00:17:48,372 --> 00:17:50,672
+College boys find it childish, too.
+
+183
+00:17:51,875 --> 00:17:52,958
+Well...
+
+184
+00:17:52,958 --> 00:17:54,375
+Oh, how about this?
+
+185
+00:17:54,375 --> 00:17:55,841
+This is a trendy watch.
+
+186
+00:18:00,875 --> 00:18:02,875
+Thanks, Li.
+
+187
+00:18:02,875 --> 00:18:03,916
+When the game console is fixed,
+
+188
+00:18:03,916 --> 00:18:04,916
+I'll let you play it first.
+
+189
+00:18:04,916 --> 00:18:07,091
+That's more like it.
+
+190
+00:20:28,375 --> 00:20:30,958
+You'd better not be a raider.
+
+191
+00:20:30,958 --> 00:20:33,800
+Otherwise, my good intentions
+will have caused a disaster.
+
+192
+00:21:22,458 --> 00:21:23,875
+Hey! How are you doing?
+
+193
+00:21:23,875 --> 00:21:25,300
+Hang in there!
+
+194
+00:21:32,125 --> 00:21:33,791
+Hey! Wake up!
+
+195
+00:21:33,791 --> 00:21:35,675
+Wake up! Hey!
+
+196
+00:21:38,083 --> 00:21:39,833
+Hey! Don't die in front me!
+
+197
+00:21:39,833 --> 00:21:42,000
+I went through a lot to take you back here!
+
+198
+00:21:42,000 --> 00:21:43,875
+I don't want my efforts to go in vain!
+
+199
+00:21:43,875 --> 00:21:46,300
+Hey! Wake up!
+
